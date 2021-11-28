@@ -1,0 +1,12 @@
+.container{
+    border: 2px solid black;
+}
+.checked{
+    color: gold;
+}
+.bold{
+    font-weight: bolder;
+}
+thead, tr:nth-child(even){
+    background-color: rgb(207, 207, 207);
+}
